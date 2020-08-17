@@ -20,19 +20,13 @@
 
 <br />
 
-
-<br />
-<br />
-
 ---
 
 
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="HarshAgarwal-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarshAgarwal-DEV&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://harsh2002.me
 [twitter]: https://twitter.com/HarshAg68814527
