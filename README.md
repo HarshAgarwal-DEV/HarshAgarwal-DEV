@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently a Student!.
 - 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking to collaborate with other to work on projects and participate in diffrent hackathon and competitions.
+- 👯 I’m looking to collaborate with other to work on projects and participate in different hackathons and competitions.
 - 🥅 I love to Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to Sing and Listen Music.
+- ⚡ Fun fact: I love to Sing and Listen to Music.
 
 ### Connect with me:
 
