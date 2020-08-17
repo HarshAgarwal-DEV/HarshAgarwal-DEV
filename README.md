@@ -1,7 +1,7 @@
 ### Hi there, I'm Harsh Agarwal[HarshAgarwal-DEV][website] 👋
 
 [![Website](https://img.shields.io/website?label=harsh2002.me&style=for-the-badge&url=https%3A%2F%2Fharsh2002.me)](https://harsh2002.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Harsh Agarwal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HarshAg68814527)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HarshAg68814527?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HarshAg68814527)
 
 ## I'm a  Software Engineering Student !
 
@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="HarshAgarwal-DEV Github Stats" src="https://github-readme-stats.HarshAgarwal-DEV.vercel.app/api?username=HarshAgarwal-DEV&show_icons=true&hide_border=true" />
+  <img align="left" alt="HarshAgarwal-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarshAgarwal-DEV&show_icons=true&hide_border=true" />
 
 </details>
 
