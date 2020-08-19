@@ -1,9 +1,9 @@
-<img src="https://github.com/atarax665/atarax665/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
-### Hi there, I'm Harsh Agarwal [HarshAgarwal-DEV][website] 👋
+
+## Hi there, I'm Harsh Agarwal [HarshAgarwal-DEV][website] 👋
 
 [![Website](https://img.shields.io/website?label=harsh2002.me&style=for-the-badge&url=https%3A%2F%2Fharsh2002.me)](https://harsh2002.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HarshAg68814527?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HarshAg68814527)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/HarshAg68814527?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HarshAg68814527)<br>
+<img src="https://github.com/atarax665/atarax665/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 ## I'm a  Software Engineering Student !
 
 - 🔭 I’m currently a Student!.
