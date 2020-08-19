@@ -1,3 +1,4 @@
+<img src="https://github.com/atarax665/atarax665/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 ### Hi there, I'm Harsh Agarwal [HarshAgarwal-DEV][website] 👋
 
 [![Website](https://img.shields.io/website?label=harsh2002.me&style=for-the-badge&url=https%3A%2F%2Fharsh2002.me)](https://harsh2002.me)
