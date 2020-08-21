@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=harsh2002.me&style=for-the-badge&url=https%3A%2F%2Fharsh2002.me)](https://harsh2002.me)
 <br>
-<img src="https://github.com/atarax665/atarax665/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/HarshAgarwal-DEV/HarshAgarwal-DEV/blob/master/hi.gif" alt="alt text" width="100" height="100" />
 ## I'm a  Software Engineering Student !
 
 - 🔭 I’m currently a Student!.
