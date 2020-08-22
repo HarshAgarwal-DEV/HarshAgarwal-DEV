@@ -1,8 +1,7 @@
 
 ## Hi there, I'm Harsh Agarwal [HarshAgarwal-DEV][website] 👋
 
-[![Website](https://img.shields.io/website?label=harsh2002.me&style=for-the-badge&url=https%3A%2F%2Fharsh2002.me)](https://harsh2002.me)
-<br>
+
 <img src="https://github.com/HarshAgarwal-DEV/HarshAgarwal-DEV/blob/master/hi.gif" alt="alt text" width="200" height="200" />
 ## I'm a  Software Engineering Student !
 
