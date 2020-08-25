@@ -2,7 +2,7 @@
 ## Hi there, I'm Harsh Agarwal [HarshAgarwal-DEV][website] 👋
 
 
-<img src="https://github.com/HarshAgarwal-DEV/HarshAgarwal-DEV/blob/master/hi.gif" alt="alt text" width="200" height="200" />
+<img src="https://github.com/HarshAgarwal-DEV/HarshAgarwal-DEV/blob/master/hi.gif" alt="alt text" width="200" height="200" /><br>
 ## I'm a  Software Engineering Student !
 
 - 🔭 I’m currently a Student!.
