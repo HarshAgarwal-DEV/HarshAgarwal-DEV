@@ -4,6 +4,11 @@
 
 <img src="https://github.com/HarshAgarwal-DEV/HarshAgarwal-DEV/blob/master/hi.gif" alt="alt text" width="200" height="200" /><br>
 ## I'm a  Software Engineering Student !
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erickeagle)](https://github.com/HarshAgarwal-DEV)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalashj16/)](https://linkedin.com/in/harsh-agarwal-4bb2931a7)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erickeagle8)](https://twitter.com/HarshAG68814527)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jindalkalash298@gmail.com)](mailto:harshu07022002@gmail.com)
+
 
 
 - ✔️ I consider myself as a smart worker and determined team player.
