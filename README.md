@@ -49,6 +49,8 @@ An coder who starts working on a project or code whenever he get  an idea about 
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="HarshAgarwal-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarshAgarwal-DEV&show_icons=true&hide_border=true" />
+      <a href="https://github.com/HarshAgarwal-DEV"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshAgarwal-DEv&layout=compact&theme=buefy" /></a>
+
 
 
 [website]: https://harsh2002.me
