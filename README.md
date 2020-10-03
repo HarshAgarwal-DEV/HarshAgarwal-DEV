@@ -18,6 +18,8 @@
 - 🥅 I love to Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to Sing and Listen to Music.
 
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 ### 🌱 What do I do?
 - ✔️Along with it, I am currently pursuingBachelor of Technology focused in Computer Science and engineering from Uttarakhand Technical University Dehradun.
 
